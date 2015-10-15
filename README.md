@@ -3,8 +3,10 @@ A prank for windows 7 to cover an unsuspecting user's screen in clocks
 
 This script replaces the settings.ini for sidebar.exe
 
-GadgetPrank.bat
+### GadgetPrank.bat
+
   Runs the prank script
 
-GadgetPrankQuickFix
+### GadgetPrankQuickFix
+
   Removes all gadgets from the user settings
