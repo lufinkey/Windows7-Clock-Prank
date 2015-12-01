@@ -9,6 +9,6 @@ This script replaces the settings.ini for sidebar.exe
 
   Runs the prank script
 
-### GadgetPrankQuickFix
+### GadgetPrankQuickFix.bat
 
   Removes all gadgets from the user settings
